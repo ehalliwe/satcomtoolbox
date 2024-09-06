@@ -33,7 +33,7 @@
 # signal visualization
 - see figures
 
-![autocorrelation.png](autocorrelation)
+![autocorrelation.png](autocorrelation.png)
 ![psdcomplex.png](psdcomplex.png)
 ![psd.png](psd.png)
 
